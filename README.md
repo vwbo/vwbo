@@ -1,5 +1,3 @@
-# WhiteCode
-
 <p align="center">
   <a href="https://github.com/vwbo">
     <img alt="WhiteCode avatar" src="https://github.com/vwbo.png"
