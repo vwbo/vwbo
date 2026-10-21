@@ -3,9 +3,7 @@
 [![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,php,java,mysql,sqlite,docker,linux,git,vscode&theme=dark)](https://github.com/vwbo)
 
 ## 📫 Contact
-- 💬 Discord: **whitecode**  
-- 🔗 GitHub: [github.com/vwbo](https://github.com/vwbo)  
-- ✉️ Email: your.email@example.com
+- 💬 Discord: **whitecode** 
 
 ---
 
