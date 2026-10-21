@@ -1,10 +1,4 @@
 ## Hi 👋 I'm WhiteCode
-I design and build secure, maintainable, and high‑performance web & mobile applications. I combine full‑stack engineering with practical cybersecurity practices to deliver resilient systems.
-
-- 💼 Role: Full‑stack Developer & Cybersecurity Specialist  
-- ✉️ Quick contact: Discord — **whitecode**
-
----
 
 ## 💻 Focused Skills
 
