@@ -1,4 +1,4 @@
-# Olá, eu sou o WhiteCode 👋
+# Olá, 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C7AD&center=true&vCenter=true&width=420&lines=Desenvolvedor+Full+Stack;Aprendendo+e+construindo;Tecnologia+com+qualidade" alt="Typing SVG" />
